@@ -14,6 +14,7 @@ This plugin enables Module Federation on Next.js
 
 - next ^14 || ^13 || ^12
 - SSR included!
+- App router included (experimental)
 
 I highly recommend referencing this application which takes advantage of the best capabilities:
 https://github.com/module-federation/module-federation-examples
